@@ -1,0 +1,27 @@
+# Unity generated (rebuilt automatically, huge)
+/[Ll]ibrary/
+/[Tt]emp/
+/[Oo]bj/
+/[Bb]uild/
+/[Bb]uilds/
+/[Ll]ogs/
+/[Uu]ser[Ss]ettings/
+/[Mm]emoryCaptures/
+/[Rr]ecordings/
+
+# IDE files
+.vs/
+.vscode/
+*.csproj
+*.sln
+*.slnx
+*.suo
+*.user
+*.pdb
+*.mdb
+
+# Asset Store packages - re-import from Package Manager instead
+/Assets/TerrainDemoScene_URP/
+/Assets/TerrainDemoScene_URP.meta
+/Assets/Blink/
+/Assets/Blink.meta
